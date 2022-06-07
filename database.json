@@ -1,0 +1,11 @@
+{
+    "contacts": [
+      { "id": 1, "name": "Anna", "email": "anyta@mail.ru", "phone": "+7123645789" },
+      { "id": 2, "name": "Ivan", "email": "ivan@mail.ru", "phone": "+7798214567" },
+      { "id": 3, "name": "Masha", "email": "mashulka@mail.ru", "phone": "+7700546854" },
+      { "id": 4, "name": "Georgy", "email": "georgy23@mail.ru", "phone": "+7794638214" },
+      { "id": 5, "name": "Olga", "email": "olgakis@mail.ru", "phone": "+714789924" },
+      { "id": 6, "name": "Jessi", "email": "jessika77@mail.ru", "phone": "+779468517" },
+      { "id": 7, "name": "Stepan", "email": "stepanko@mail.ru", "phone": "+7123645789" }
+    ]
+}
