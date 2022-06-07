@@ -1,5 +1,4 @@
 import "./style.css";
-
 const button = document.getElementById("json-btn");
 const area_data = document.getElementById("area-data");
 const empty_block = document.getElementsByClassName("block")[0];
